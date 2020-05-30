@@ -7,3 +7,7 @@ Branch Dev
 **********
 letter a
 
+Branch master changes
+*********************
+letter e
+
