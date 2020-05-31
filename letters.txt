@@ -3,7 +3,7 @@ letter b
 letter c
 letter d
 letter e
-letter f
+letter f,g
 
 Branch Dev
 **********
@@ -12,4 +12,8 @@ letter a
 Branch master changes
 *********************
 letter e
+
+uat branch changes
+******************
+letter a 
 
