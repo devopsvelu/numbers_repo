@@ -3,7 +3,7 @@ letter b
 letter c
 letter d
 letter e
-letter f and g
+letter f,g
 
 Branch Dev
 **********
